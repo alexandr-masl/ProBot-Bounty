@@ -30,3 +30,4 @@ https://github.com/alexandr-masl/ProBot-Bounty/issues/60
 https://github.com/alexandr-masl/ProBot-Bounty/issues/62
 https://github.com/alexandr-masl/ProBot-Bounty/issues/64
 https://github.com/alexandr-masl/ProBot-Bounty/issues/67
+https://github.com/alexandr-masl/ProBot-Bounty/issues/69
